@@ -1,0 +1,18 @@
+author: mf.aoudia@gmail.com
+description: InfluxDB wrapper support
+type: lib
+version: 1.0
+sources:
+  - src
+filesystem:
+  - mjs_fs
+libs:
+    # libs necessary for the current app
+  - origin: https://github.com/mongoose-os-libs/mjs
+tags:
+  - database
+  - influxdb
+  - wrapper
+  - http
+  - js
+skeleton_version: 2017-05-16
